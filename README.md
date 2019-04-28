@@ -70,5 +70,11 @@
   * Tip:[iOS字符集处理](2019/week03/Tip.md)
   * Share:[事件传递](2019/week03/Share.md)
 
+### Week04
+  * Algorithm:[Longest Palindromic Substring](2019/week04/Algorithm.md)
+  * Review:[iOS开发 单例使用问题](2019/week04/Review.md)
+  * Tip:[Charles抓包](2019/week04/Tip.md)
+  * Share:[Block原理及应用](2019/week04/Share.md)
+
 
 
