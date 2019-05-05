@@ -76,5 +76,11 @@
   * Tip:[Charles抓包](2019/week04/Tip.md)
   * Share:[Block原理及应用](2019/week04/Share.md)
 
+### Week05
+  * Algorithm:[ZigZag Conversion](2019/week05/Algorithm.md)
+  * Review:[密码学](2019/week05/Review.md)
+  * Tip:[ViewController瘦身](2019/week05/Tip.md)
+  * Share:[App架构](2019/week05/Share.md)
+
 
 
