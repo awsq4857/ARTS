@@ -82,5 +82,11 @@
   * Tip:[ViewController瘦身](2019/week05/Tip.md)
   * Share:[App架构](2019/week05/Share.md)
 
+### Week06
+  * Algorithm:[Container With Most Water](2019/week06/Algorithm.md)
+  * Review:[浅谈iOS页面流畅技巧](2019/week06/Review.md)
+  * Tip:[Xcode 小技巧](2019/week06/Tip.md)
+  * Share:[ViewController结构](2019/week06/Share.md)
+
 
 
