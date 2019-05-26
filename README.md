@@ -94,5 +94,11 @@
   * Tip:[armv6, armv7, armv7s, arm64](2019/week07/Tip.md)
   * Share:[iOS 布局](2019/week07/Share.md)
 
+### Week08
+  * Algorithm:[Roman to Integer](2019/week08/Algorithm.md)
+  * Review:[给 iOS 开发者的 Flutter 指南](2019/week08/Review.md)
+  * Tip:[用 Python 分析所有微信好友](2019/week08/Tip.md)
+  * Share:[iOS内存优化](2019/week08/Share.md)
+
 
 
