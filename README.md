@@ -100,5 +100,11 @@
   * Tip:[用 Python 分析所有微信好友](2019/week08/Tip.md)
   * Share:[iOS内存优化](2019/week08/Share.md)
 
+### Week09
+  * Algorithm:[Longest Common Prefix](2019/week09/Algorithm.md)
+  * Review:[iOS内购](2019/week09/Review.md)
+  * Tip:[iOS系统结构](2019/week09/Tip.md)
+  * Share:[fastlane 入门使用](2019/week09/Share.md)
+
 
 
